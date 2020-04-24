@@ -1,0 +1,76 @@
+
+body {
+	background-color: #f9fafc;
+	color: #313131;
+	text-align: center;
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+
+    margin: 0;
+
+}
+
+h1 {
+	font-size: 4rem;
+	color:#313131;
+	font-family: 'Dancing Script', sans-serif;
+
+}
+
+h3 {
+	font-size: 1.5rem;
+	font-family: 'Gotu', sans-serif;
+	font-weight: normal;
+}
+
+p {
+	padding: 20px;
+}
+
+.hey {
+	font-size: 2.5rem;
+}
+
+.top-box {
+	
+	margin: 130px auto 100px;
+	
+	background-color: #f9fafc;
+	
+
+}
+
+.pic-box {
+	width: 100%;
+	margin: 0 auto 100px auto;
+}
+
+
+.mypic {
+	width: 20%;
+	border-radius: 100%;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #313131;
+}
+
+.skills-box {
+	width: 50%;
+	margin: 50px auto;
+	
+}
+
+.bottom-box {
+	background-color: #e3e4e6;
+	padding: 50px;
+}
+
+.foot-link {
+	color: #313131;
+	padding: 0 50px;
+}
+
+.foot-link-img {
+	padding: 0 65px 20px 65px;	
+}
